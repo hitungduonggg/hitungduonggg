@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2e/5c/bb/2e5cbbac501c13f4ffd6863125f962b6.gif" width="760" alt="banner" />
+  <img src="https://i.pinimg.com/originals/1a/11/1e/1a111e2692e70771554a783d56125875.gif" width="100%" alt="banner" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&weight=700&size=88&duration=2500&pause=100000&color=B8975A&center=true&vCenter=true&repeat=false&width=760&height=110&lines=DUOWG" alt="DUOWG" />
   <br><br>
