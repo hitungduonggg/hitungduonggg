@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&weight=600&size=46&duration=2500&pause=100000&color=B8975A&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Duonggg" alt="Duonggg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&weight=600&size=46&duration=2500&pause=100000&color=B8975A&center=true&vCenter=true&repeat=false&width=600&height=70&lines=DUOWG" alt="DUOWG" />
 
 <sub>⸻ &nbsp; ✦ &nbsp; ⸻</sub>
 
