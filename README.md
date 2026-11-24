@@ -34,6 +34,10 @@
 
 <br><br>
 
+<img src="https://i.pinimg.com/originals/f5/37/ac/f537acd8b0eb2543982416d3fa4922bf.gif" width="600" alt="rain" />
+
+<br><br>
+
 <img src="https://count.getloli.com/@:hitungduonggg?theme=booru-smtg&padding=5&scale=0.6&align=top&pixelated=1&darkmode=auto" alt="profile views" />
 
 </div>
